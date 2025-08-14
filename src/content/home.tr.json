@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "İşitme Merkezlerine Özel Tedarikçi Platformu",
+    "subtitle": "B2B avantajlar, sadakat kredisi, hızlı teklif ve tek panelden sipariş yönetimi.",
+    "ctaLogin": "Giriş Yap",
+    "ctaRegister": "Kayıt Ol (Ücretsiz)",
+    "socialProof": "500+ işitme merkezi tarafından tercih ediliyor"
+  },
+  "advantages": [
+    { "title": "Hızlı Teklif Süreci", "desc": "Tek tıkla talep, anında yanıt.", "href": "/why#fast-quote" },
+    { "title": "Sadakat Kredisi", "desc": "Sipariş adedinize göre artar.", "href": "/why#loyalty" },
+    { "title": "Şeffaf Fiyatlandırma", "desc": "Güncel stok ve net fiyatlar.", "href": "/why#pricing" },
+    { "title": "Güvenli İşlemler", "desc": "JWT güvenliği ve loglama.", "href": "/why#security" }
+  ],
+  "faq": [
+    { "q": "Odyostore nedir?", "a": "İşitme merkezleri ve tedarikçileri bir araya getiren B2B tedarik platformudur." },
+    { "q": "Kayıt nasıl çalışır?", "a": "İki adımda kurumsal ve giriş bilgileri tamamlanır; admin onayı sonrası giriş yapılır." },
+    { "q": "Sadakat kredisi nasıl kazanılır?", "a": "Tamamlanan sipariş sayınıza göre seviyeniz ve kredi miktarınız artar." },
+    { "q": "Fatura ve kargo süreci?", "a": "Sipariş detayından PDF fatura indirip kargo durumunu takip edebilirsiniz." }
+  ]
+}

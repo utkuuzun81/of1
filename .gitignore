@@ -1,0 +1,13 @@
+﻿node_modules/
+dist/
+build/
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+.idea/
+.next/
+.cache/

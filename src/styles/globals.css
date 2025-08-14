@@ -1,0 +1,12 @@
+:root{
+  --primary:#ef4444; /* CTA */
+  --primary-dark:#7f1d1d; /* hover/başlık */
+  --bg:#f3f4f6; /* grid arka plan */
+  --text:#111827; /* metin */
+}
+*{ box-sizing:border-box }
+html,body,#root{ height:100% }
+body{ margin:0; font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); }
+button{ border-radius:12px }
+/* Glassmorphism yardımcı */
+.glass{ background: rgba(255,255,255,.6); backdrop-filter: blur(10px); border-radius: 16px; }
