@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://ODYOSTORE-BACKEND-DOMAIN.COM/api/:path*" }
+  ]
+}
